@@ -449,3 +449,16 @@ img {
     padding: 3rem 3rem;
 }
 }
+
+#mail-message p {
+    text-align: center;
+    padding: 10px;
+}
+
+#mail-message p.success {
+    color: #228b22;
+}
+
+#mail-message p.error {
+    color: #dc143c;
+}
